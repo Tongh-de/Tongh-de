@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Tongh 👋
 
-<!--
-**Tongh-de/Tongh-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Application Engineer / Agent Developer
 
-Here are some ideas to get you started:
+专注于：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- RAG
+- Agent
+- LangChain
+- FastAPI
+- AI教育系统
+- Docker工程化
+
+---
+
+## 🚀 Featured Projects
+
+### Edu AI Agent
+基于 LangChain + RAG 的教育智能体系统
+
+功能：
+
+- 错题分析
+- 长期记忆
+- 学情追踪
+- 多轮对话
+- Agent工作流
+
+技术栈：
+
+Python / FastAPI / LangChain / Milvus / Docker
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- LangChain
+- LangGraph
+- Milvus
+- MySQL
+- Redis
+- Docker
+- Linux
+
+---
+
+## 📚 Technical Blog
+
+CSDN:
+https://blog.csdn.net/qq_54929838
+
+---
+
+## 📫 Contact
+
+GitHub:
+https://github.com/Tongh-de
