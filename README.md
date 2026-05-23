@@ -57,3 +57,15 @@ https://blog.csdn.net/qq_54929838
 
 GitHub:
 https://github.com/Tongh-de
+
+---
+
+## 📊 GitHub Stats
+
+![Tongh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tongh-de&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tongh-de&layout=compact&theme=tokyonight)
