@@ -1,34 +1,21 @@
 # Hi, I'm Tongh 👋
 
-AI Application Engineer / Agent Developer
+AI Application Engineer focused on RAG, Agent and AI education systems.
 
-专注于：
-
-- RAG
-- Agent
-- LangChain
-- FastAPI
-- AI教育系统
-- Docker工程化
+Currently building AI-powered applications with FastAPI, LangChain and Milvus.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Main Project
 
 ### Edu AI Agent
-基于 LangChain + RAG 的教育智能体系统
 
-功能：
+An AI-enhanced education system for:
 
-- 错题分析
-- 长期记忆
-- 学情追踪
-- 多轮对话
-- Agent工作流
-
-技术栈：
-
-Python / FastAPI / LangChain / Milvus / Docker
+- Mistake analysis
+- Knowledge retrieval
+- Personalized learning recommendation
+- Student learning profile
 
 ---
 
@@ -37,23 +24,29 @@ Python / FastAPI / LangChain / Milvus / Docker
 - Python
 - FastAPI
 - LangChain
-- LangGraph
 - Milvus
-- MySQL
-- Redis
+- React
 - Docker
-- Linux
+- MySQL
 
 ---
 
-## 📚 Technical Blog
+## 📈 Current Focus
+
+- RAG optimization
+- Agent workflow
+- Memory system
+- AI application engineering
+
+---
+
+## 📝 Blog
 
 CSDN:
-https://blog.csdn.net/qq_54929838
+https://blog.csdn.net/qq_54929888
 
 ---
 
-## 📫 Contact
+## 📫 GitHub
 
-GitHub:
 https://github.com/Tongh-de
